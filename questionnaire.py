@@ -73,4 +73,5 @@ le numerio de la question (ex: auestions 1/20)
 Qualité du code 
 commit sur git
 commenter le code. 
+ANALYSER LA STRUCTURE DES JSONS POUR LES MANIPULER CORRECTEMENT
 """
